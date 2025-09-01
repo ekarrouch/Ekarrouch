@@ -1,5 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/117761602/211220562-e477ce99-93b3-42b1-9f1d-9d4352151c6a.gif" alt="Gato Trabajando Duro"></p>
-
+<p align="center"><img src="<p align="center"><img src="https://user-images.githubusercontent.com/117761602/211220562-e477ce99-93b3-42b1-9f1d-9d4352151c6a.gif" alt="Gato Trabajando Duro"></p>
 <h1 align="center">Hi 👋, I'm El Hussein Abdel Sattar Karrouch From Cairo Egypt</h1>
 <h3 align="center">I'm a passionate web designer and developer</h3>
 
