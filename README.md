@@ -1,48 +1,34 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/117761602/211220562-e477ce99-93b3-42b1-9f1d-9d4352151c6a.gif" alt="Gato Trabajando Duro"></p>
 
-<h1 align="center">Hi 👋, I'm Noa Cocaña Macías</h1>
-<h3 align="center">A thoughtful student from Spain</h3>
+<h1 align="center">Hi 👋, I'm El Hussein Abdel Sattar Karrouch From Cairo Egypt</h1>
+<h3 align="center">I'm a passionate web designer and developer</h3>
 
-- 🌱 **I’m currently studying** a [CE in *Inteligencia Artifical y Big Data* (Especialization Curse in Artificial Intelligence and Big Data)](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-inteligencia-artificial-bigdata.html) at IEDIB.
+- 🌱 **I'm currently studying** Computer Science and Software Engineering.
 
-- 📫 **How to reach me:** ncocanamacias@gmail.com
+- 📫 **How to reach me:** [elhussein.karrouch@hotmail.com]
 
-- 📄 **Know about my previous formation:** I have a title of [CFGM in *Sistemas Microinformáticos y Redes*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html) and [CFGS in *Desarrollo de Aplicaciones Web*](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html).
+- 📄 **Know about my previous formation:** I have experience in web development and programming.
 
-- ⚡ **Fun fact:** I'm an [INTJ](https://www.16personalities.com/intj-personality) interested in reading, artificial intelligence, and psychology.
+- ⚡ **Fun fact:** I'm passionate about technology, problem-solving, and continuous learning.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!--   <h4 align="left">Programming Languagues:</h3> -->
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,php" />
   </a>
-<!--   <h4 align="left">Frontend Development:</h3> -->
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,vue" />
-  </a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
-  </a>
-<!--   <h4 align="left">Databases:</h3> -->
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
-  </a>
-<!--   <h4 align="left">Frameworks:</h3> -->
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flask,spring,laravel" />
-  </a>
-<!--   <h4 align="left">Scripting:</h3> -->
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,powershell" />
-  </a>
-<!--   <h4 align="left">Others:</h3> -->
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git,maven,gulp,webpack,docker,postman,netlify" />
+      <img src="https://skillicons.dev/icons?i=vscode,git" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="El Hussein's GitHub stats" />
+</p>
