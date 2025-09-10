@@ -54,10 +54,8 @@ I'm a passionate **developer** & **designer** with 24+ years of experience in th
 ## 🌐 Connect with Me
 
 <!-- Update these with your actual links! -->
-- [LinkedIn](#)
-- [Twitter / X](#)
-- [Personal Website](#)
-- Email: [your-email@example.com](mailto:elhussein.karrouch@hotmail.com)
+
+- Email: [elhussein.karrouch@hotmail.com](mailto:elhussein.karrouch@hotmail.com)
 
 ---
 
