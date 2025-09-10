@@ -1,33 +1,65 @@
-<p align="center"><img src="<p align="center"><img src="https://user-images.githubusercontent.com/117761602/211220562-e477ce99-93b3-42b1-9f1d-9d4352151c6a.gif" alt="Gato Trabajando Duro"></p>
-<h1 align="center">Hi 👋, I'm El Hussein Abdel Sattar Karrouch From Cairo Egypt</h1>
-<h3 align="center">I'm a passionate web designer and developer</h3>
+# 👋 Hi, I'm El Hussein karrouch!
 
-- 🌱 **I'm currently studying** Computer Science and Software Engineering.
+Welcome to my GitHub profile!  
+I'm a passionate **developer** & **designer** with 24+ years of experience in the tourism industry, currently serving as **System Coordinator Department Manager Assistant** at Travco Group, acting as an **Information Technology System Support Specialist**.
 
-- 📫 **How to reach me:** [elhussein.karrouch@hotmail.com]
+## 🚀 About Me
 
-- 📄 **Know about my previous formation:** I have experience in web development and programming.
+- **Profession:** Developer & Designer  
+- **Current Role:** System Coordinator Department Manager Assistant @ Travco Group  
+- **Tourism Experience:** 24+ years, including leadership & technical roles  
+- **Education:**  
+  - High School Diploma in Business Administration & Management  
+  - Web Design Diploma (UI/UX, Figma, HTML, CSS, jQuery, Bootstrap5, CMS)
+- **Key Strengths:**  
+  - Leadership & team management  
+  - Deep knowledge of tourism software systems  
+  - Support specialist across various tourism sectors
 
-- ⚡ **Fun fact:** I'm passionate about technology, problem-solving, and continuous learning.
+### 🏆 Roles & Achievements in Tourism
+- French Representative
+- Tour Leader
+- Representative Trainer
+- Assistant Traffic Manager
+- Quality Control Manager
+- Executive Events Cooperation
+- Quick Trip Executive Operation Handling
+- IT Database Builder
+- Information Technology Sejour Tourism System Support Specialist
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,php" />
-  </a>
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git" />
-  </a>
-</p>
+## 💻 Top Skills & Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX-Design-blueviolet)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![CMS](https://img.shields.io/badge/CMS-Darkgreen?logo=wordpress&logoColor=white)
+
+## 🌟 Featured Projects
+
+- [Online Store](https://github.com/ekarrouch/personal-web)  
+  *A modern web platform for seamless online shopping experiences.*
+
+- [Travel Web](https://github.com/ekarrouch/Ekarrouch)  
+  *A showcase of travel solutions and tourism sector expertise.*
+
+## 📂 Other Notable Repositories
+
+- [JavaScript Fundamentals](https://github.com/ekarrouch/JavaScript-Fundamentals)
+- [Student Information System](https://github.com/ekarrouch/student-information)
+- [Student Information Card](https://github.com/ekarrouch/Student-Information-Card)
+
+## 🌐 Connect with Me
+
+<!-- Update these with your actual links! -->
+- [LinkedIn](#)
+- [Twitter / X](#)
+- [Personal Website](#)
+- Email: [your-email@example.com](mailto:elhussein.karrouch@hotmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="El Hussein's GitHub stats" />
-</p>
+> **Driven by passion, empowered by technology.  
+> Building the future of tourism, one system at a time.**
